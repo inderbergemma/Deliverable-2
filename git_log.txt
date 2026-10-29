@@ -1,3 +1,6 @@
-* 9dda6b9 - Emma Inderberg, 13 seconds ago : Add requirements file
-* 821bec0 - Emma Inderberg, 7 minutes ago : Add deliverable 2 project files
-* a74a07e - inderbergemma, 19 minutes ago : Initial commit
+* 2bb827a - Emma Inderberg, 34 seconds ago : Update requirements for deliverable 2
+* 27bb657 - Emma Inderberg, 6 minutes ago : Add GitHub repository link to notebook
+* 5d25fcf - Emma Inderberg, 3 days ago : Add git commit log
+* 9dda6b9 - Emma Inderberg, 3 days ago : Add requirements file
+* 821bec0 - Emma Inderberg, 3 days ago : Add deliverable 2 project files
+* a74a07e - inderbergemma, 3 days ago : Initial commit
